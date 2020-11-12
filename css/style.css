@@ -90,6 +90,10 @@ nav ul li {
 	color: greenyellow;
 	font-family: 'Roboto Mono', monospace;
 }
+.namefooter a {
+	color: greenyellow;
+	font-family: 'Roboto Mono', monospace;
+}
 .main-nav {
 	margin: auto;
 	margin-top: 5px;
@@ -113,6 +117,9 @@ nav ul li {
 	padding: 5px;
 
 	
+}
+.main-nav-footer a {
+	color: #0a0a0a;
 }
 
 .main-nav a:hover {
@@ -238,7 +245,7 @@ nav ul li {
   Media Queries
 ==================================== */
 
-@media (min-width: 769px) {
+@media (min-width: 768px) {
 
 .portfolio p {
 padding: 10px;
@@ -344,7 +351,7 @@ nav {
 
 }
 
-@media (min-width: 1025px) {
+@media (min-width: 1024px) {
 	
 	.container {
 		
